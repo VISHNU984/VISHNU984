@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Vishnu
-- 👀 I’m having 4 year of  experience in React Js
+- 👀 I’m having 5+ year of  experience in
+- React Js
 - ,Node Js
 - ,Express js
 - ,HTML
 - ,CSS
-- ,
 - MySQL,
 - SQLLITE,
 - git hub,
@@ -12,6 +12,8 @@
 - Electron Js
 - Flutter,
 - Android Studio.
+- AWS lambda
+- Jenkins
 - 📫 reach me by vishnugovindh14@gmail.com
 
 <!---
